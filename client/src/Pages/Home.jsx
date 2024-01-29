@@ -6,7 +6,6 @@ export default function Home() {
         <div className="p-3 max-w-xl text-center mx-auto leading-5">
           <h1 className="text-md font-medium text-center my-7 md:text-4xl leading-5">
             Shorten Your <span className="text-blue-600">Looooong</span> URLs
-            Like Never Before
           </h1>
         </div>
 
@@ -16,7 +15,7 @@ export default function Home() {
         </form>
       </div>
 
-      <div className="mx-auto max-w-4xl flex gap-5 flex-wrap mt-10">
+      <div className="mx-auto max-w-5xl flex justify-center gap-5 flex-wrap mt-10">
         <Card/>
         <Card/>
         <Card/>
